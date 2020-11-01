@@ -7,7 +7,7 @@ main:
     url: /projects/
 
   - title: "CV"
-    url: /files/akhil_agnihotri_resume.pdf
+    url: https://drive.google.com/file/d/1wxloraTS4kUvf7WtTnpk8pEpm3jT1Eux/view?usp=sharing
 
   - title: "Life"
     url: /talks/    
