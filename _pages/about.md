@@ -20,8 +20,8 @@ In addition to always looking to [learn](https://www.feynmanlectures.caltech.edu
 <br/>
 
 **News**   
-| <img width=95/>   |  |  
-| -----   | --- |  
+|  |  |  
+| ---:   | --- |  
 | **Oct 20**   | Started at JPMorgan as a Quantitative Researcher. Hello Mumbai!|  
 | **Aug 20**  | Selected to attend Research School hosted by the Max Planck Institute, Germany for 90 students globally. |  
 | **Jul 20** | Finally graduated from BITS Pilani with Honours!  |  
