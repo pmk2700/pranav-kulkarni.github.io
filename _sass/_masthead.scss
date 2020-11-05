@@ -15,7 +15,7 @@
     // @include container;
     // @include clearfix;
     max-width: 925px;
-    margin-left: 125px;
+    margin-left: $x-large/3;
     margin-right: auto;
     clear: both;
     padding: 1em 1em 1em;
@@ -51,7 +51,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 8.15em;
     font-weight: 700;
   }
 }
