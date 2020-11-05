@@ -16,11 +16,13 @@ I am currently a Quantitative Researcher at [JPMorgan Chase & Co.](https://www.j
 
 I like to focus on problems which closely impact our community and my work till now has been focused on understanding the nature of these problems. I am interested in solutions which build on machine learning, statistics, applied probability, optimization, and simulation. 
 
-In addition to always looking to [learn](https://www.feynmanlectures.caltech.edu/) and [solve](/projects) problems, I like photography and working for the community. During my undergraduate years at [BITS Pilani](https://www.bits-pilani.ac.in/) I founded [Bumbling.Tumbling.Clicking.](https://www.bumblingtumblingclicking.in/) through which we worked towards promoting volunteering spirit and active citizenship among the youth.
+In addition to always looking to [learn](https://www.feynmanlectures.caltech.edu/) and [solve](/projects) problems, I like photography and working for the community. During my undergraduate years at [BITS Pilani](https://www.bits-pilani.ac.in/) I founded [Bumbling.Tumbling.Clicking.](https://www.bumblingtumblingclicking.in/) through which we worked towards promoting volunteering spirit and active citizenship among the youth.  
+<br/>
 
-> #####**News**   
-> | <img width=95/>   | ------ |  
-| -----   | ------ |  
+   
+|<img width=35/>| |
+| **News**  | |
+| -----:   | --- |
 | **Oct 20**   | Started at JPMorgan as a Quantitative Researcher. Hello Mumbai!|  
 | **Aug 20**  | Selected to attend Research School hosted by the Max Planck Institute, Germany for 90 students globally. |  
 | **Jul 20** | Finally graduated from BITS Pilani with Honours!  |  
