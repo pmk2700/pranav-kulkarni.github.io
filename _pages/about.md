@@ -19,17 +19,15 @@ I like to focus on problems which closely impact our community and my work till 
 In addition to always looking to [learn](https://www.feynmanlectures.caltech.edu/) and [solve](/projects) problems, I like photography and working for the community. During my undergraduate years at [BITS Pilani](https://www.bits-pilani.ac.in/) I founded [Bumbling.Tumbling.Clicking.](https://www.bumblingtumblingclicking.in/) through which we worked towards promoting volunteering spirit and active citizenship among the youth.  
 <br/>
 
-**News**   
-|  |  |  
-| ---:   | --- |  
-| **Oct 20**   | Started at JPMorgan as a Quantitative Researcher. Hello Mumbai!|  
-| **Aug 20**  | Selected to attend Research School hosted by the Max Planck Institute, Germany for 90 students globally. |  
-| **Jul 20** | Finally graduated from BITS Pilani with Honours!  |  
-| **Jun 19** | Received Travel Grant for conducting research at CMU. To the mecca of robotics! |  
-| **Apr 19** | Recipient of the NTU-India Connect Scholarship for research at NTU, Singapore. |  
-| **Mar 19** | Awarded the DAAD-WISE scholarship by the German Academic Exchange Service to conduct research at TU Munich. Danke Deutschland! |  
-| **May 18** | Summer internship Indira Gandhi Center for Atomic Research - India's largest nuclear reactor establishment. |  
+### News   
+
+
+|--------:|-----------------------------------------------------------------------------|
+| **Oct 20** | Started at JPMorgan as a Quantitative Researcher. Hello Mumbai!|
+| **Aug 20** | Selected to attend Research School hosted by the Max Planck Institute, Germany for 90 students globally. |
+| **Jul 20** | Finally graduated from BITS Pilani with Honours!  |
+| **Jun 19** | Received Travel Grant for conducting research at CMU. To the mecca of robotics! |
+| **Apr 19** | Recipient of the NTU-India Connect Scholarship for research at NTU, Singapore. |
+| **Mar 19** | Awarded the DAAD-WISE scholarship by the German Academic Exchange Service to conduct research at TU Munich. Danke Deutschland! |
+| **May 18** | Summer internship Indira Gandhi Center for Atomic Research - India's largest nuclear reactor establishment. |
 | **Aug 16** | Started my undergraduate life at BITS Pilani with focus on mechanical engineering and data science.|
-
-
-
