@@ -20,10 +20,10 @@ In addition to always looking to [learn](https://www.feynmanlectures.caltech.edu
 <br/>
 
 **News**  
-|---&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
-| ---:   | --- |
-| **Oct 20**| Started at JPMorgan as a Quantitative Researcher. Hello Mumbai!|  
-| **Aug 20** | Selected to attend Research School hosted by the Max Planck Institute, Germany for 90 students globally. |  
+|                  |                    |       
+ ---:   | --- |
+| **Oct 20**| Started at JPMorgan as a Quantitative Researcher. Hello Mumbai!|    
+| **Aug 20** | Selected to attend Research School hosted by the Max Planck Institute, Germany for 90 students globally. |    
 | **Jul 20** | Finally graduated from BITS Pilani with Honours!  |  
 | **Jun 19** | Received Travel Grant for conducting research at CMU. To the mecca of robotics! |  
 | **Apr 19** | Recipient of the NTU-India Connect Scholarship for research at NTU, Singapore. |  
