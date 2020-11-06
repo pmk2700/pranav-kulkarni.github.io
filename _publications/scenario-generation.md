@@ -2,7 +2,7 @@
 title: "Multi-Vehicle Interaction Scenarios Generation & Interpretable Traffc Primitives and Gaussian Process Regression"
 collection: publications
 permalink: /publication/scenario-generation
-excerpt: "Weiyang Zhang, Wenshuo Wang, Akhil Agnihotri, Ding Zhao. International Conference on Robotics and Automation 2020. **[**[arxiv](https://arxiv.org/pdf/1910.03633.pdf)**]** **[**[code](https://github.com/agnihotriakhil/turtlebot3_aruco_control)**]** <br/> <br/> <br/>"
+excerpt: "Wenshuo Wang, Weiyang Zhang, Ding Zhao. International Conference on Robotics and Automation 2020. **[**[arxiv](https://arxiv.org/pdf/1910.03633.pdf)**]** **[**[code](https://github.com/agnihotriakhil/turtlebot3_aruco_control)**]** <br/> <br/> <br/>"
 date: 2019-09-01
 venue: 'ICRA 2020'
 paperurl: 
