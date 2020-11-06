@@ -21,11 +21,11 @@ In addition to always looking to [learn](https://www.feynmanlectures.caltech.edu
 
 ## News   
 
-* **Oct 20** : Started at JPMorgan as a Quantitative Researcher. Hello Mumbai!
-* **Aug 20** : Selected to attend Research School hosted by the Max Planck Institute, Germany &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for 90 students globally. 
-* **Jul 20** : Finally graduated from BITS Pilani with Honours! 
-* **Jun 19** : Received Travel Grant for conducting research at CMU. To the mecca of robotics!
-* **Apr 19** : Recipient of the NTU-India Connect Scholarship for research at NTU, Singapore.
-* **Mar 19** : Awarded the DAAD-WISE scholarship by the German Academic Exchange Service &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to conduct research at TU Munich. Danke Deutschland!
-* **May 18** : Summer internship Indira Gandhi Center for Atomic Research - India's largest &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  nuclear reactor establishment.
-* **Aug 16** : Started my undergraduate life at BITS Pilani with focus on mechanical &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; engineering and data science.
+* **Oct 20**<span style="display:inline-block; width: 9px;"></span> : Started at JPMorgan as a Quantitative Researcher. Hello Mumbai!
+* **Aug 20**&nbsp; : Attending Research School hosted by the Max Planck Institute, Germany.
+* **Jul 20**&ensp;&nbsp; : Finally graduated from BITS Pilani with Honours! 
+* **Jun 19**&ensp; : Received Travel Grant for conducting research at CMU. To the mecca of robotics!
+* **Apr 19**&ensp; : Recipient of the NTU-India Connect Scholarship for research at NTU, Singapore.
+* **Mar 19**&nbsp; : Awarded the DAAD-WISE scholarship by the German Academic Exchange Service &emsp;&emsp;&emsp;&emsp;&nbsp; to conduct research at TU Munich. Danke Deutschland!
+* **May 18** : Summer internship Indira Gandhi Center for Atomic Research - India's largest <br/> &emsp;&emsp;&emsp;&emsp; nuclear reactor establishment.
+* **Aug 16** : Started my undergraduate life at BITS Pilani with focus on mechanical <br/> &emsp;&emsp;&emsp;&emsp; engineering and data science.
