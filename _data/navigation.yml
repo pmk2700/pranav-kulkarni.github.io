@@ -10,7 +10,10 @@ main:
     url: https://drive.google.com/file/d/1wxloraTS4kUvf7WtTnpk8pEpm3jT1Eux/view?usp=sharing
 
   - title: "Life"
-    url: /talks/    
+    url: /talks/ 
+  
+  - title: "AAO"
+    url: /AAO/   
 
   # - title: "Teaching"
   #   url: /teaching/    
