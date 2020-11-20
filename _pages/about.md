@@ -29,3 +29,9 @@ In addition to always looking to [learn](https://www.feynmanlectures.caltech.edu
 * **Mar 19**&nbsp; : Awarded the DAAD-WISE scholarship by the German Academic Exchange Service &emsp;&emsp;&emsp;&emsp;&nbsp; to conduct research at TU Munich. Danke Deutschland!
 * **May 18** : Summer internship Indira Gandhi Center for Atomic Research - India's largest <br/> &emsp;&emsp;&emsp;&emsp; nuclear reactor establishment.
 * **Aug 16** : Started my undergraduate life at BITS Pilani with focus on mechanical <br/> &emsp;&emsp;&emsp;&emsp; engineering and data science.
+
+---
+
+<div style="width:300px; margin:auto;">
+  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5t259rss3n1&amp;m=1&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=0&amp;s=300" async="async"></script>
+</div>
