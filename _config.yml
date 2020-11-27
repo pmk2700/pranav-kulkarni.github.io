@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "Akhil Agnihotri"
 title_separator          : "-"
 name                     : &name "Akhil Agnihotri"
-description              : &description "Quantitative Researcher at JPMorgan & Chase Co."
+description              : &description "Akhil Agnihotri BITS Pilani CMU JP Morgan Website"
 url                      : https://agnihotriakhil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "agnihotriakhil.github.io"
@@ -63,8 +63,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
-  username               :
+facebook                 :
+  username               : &facebook
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
