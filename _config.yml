@@ -83,6 +83,14 @@ analytics:
     tracking_id          :
 
 
+algolia:
+  # Exclude more files from indexing
+  files_to_exclude:
+
+    - files/akhil_agnihotri_resume.pdf
+    - talks/*.md
+    - projects/*.md
+
 # Site Author
 author:
   name             : "Akhil Agnihotri"

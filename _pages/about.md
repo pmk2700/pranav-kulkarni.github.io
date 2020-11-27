@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hello!"
-excerpt: "About me"
+excerpt: "Akhil Agnihotri BITS Pilani Hyderabad JP Morgan CMU website github"
 author_profile: true
 redirect_from: 
   - /about/
