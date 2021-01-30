@@ -21,9 +21,9 @@
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
 
-    @include breakpoint($large) {
+    @media (max-width:950px) {
       margin-left: 0;
-    }
+    } 
 
     @include breakpoint($x-large) {
       max-width: $x-large;
