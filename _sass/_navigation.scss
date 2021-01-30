@@ -184,6 +184,7 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    background-color: $background-color;
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -197,7 +198,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background-color: $background-color;
     color: #fff;
     cursor: pointer;
   }
