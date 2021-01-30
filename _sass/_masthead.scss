@@ -22,7 +22,7 @@
     font-family: $sans-serif-narrow;
 
     @media (max-width:950px) {
-      margin-left: 0;
+      margin-left: 30%;
     } 
 
     @include breakpoint($x-large) {
