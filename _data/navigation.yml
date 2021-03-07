@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "CV"
+    url: https://drive.google.com/file/d/1wxloraTS4kUvf7WtTnpk8pEpm3jT1Eux/view?usp=sharing
+
+  - title: "Life"
+    url: /talks/   
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "blah"
+  #   url: /blah/
+    
+  # - title: "Guide"
+  #   url: /markdown/

@@ -1,0 +1,29 @@
+---
+layout: archive
+title:
+permalink: /talks/
+author_profile: true
+---
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+  {% if post.type=='placement-talk' %}
+    <div align="center"><img style="width:80%;" src="/images/talks/placement-talk-1.jpg" alt="placement-talk-1"></div>
+  {% elsif post.type=='dynamics-analysis' %}
+    <div align="center"><img style="width:80%;" src="/images/talks/dynamics-analysis-1.png" alt="dynamics-analysis-1"></div>
+  {% elsif post.type=='graduate-school' %}
+    <div align="center"><img style="width:80%;" src="/images/talks/graduate-school-1.jpg" alt="dynamics-analysis-1"></div>
+  {% elsif post.type=='ieee-indicon' %}
+    <div align="center"><img style="width:80%;" src="/images/talks/ieee-indicon-1.png" alt="dynamics-analysis-1"></div>
+  {% elsif post.type=='cmu' %}
+    <div align="center"><img style="width:80%;" src="/images/talks/cmu-1.jpg" alt="dynamics-analysis-1"></div>  
+
+  {% endif %}
+  <br/>
+{% endfor %}
