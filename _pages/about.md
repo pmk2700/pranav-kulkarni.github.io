@@ -12,7 +12,7 @@ redirect_from:
 
 ------
 
-I am currently a Quantitative Researcher at [JPMorgan Chase & Co.](https://www.jpmorgan.com/solutions/cib/markets/global-equities) working towards devising pricing models for structured derivative payoffs. Prior to this, I was fortunate enough to work with [Prof. Ding Zhao](http://www.andrew.cmu.edu/user/dingzhao/) at [Carnegie Mellon University](http://www.andrew.cmu.edu/user/dingzhao/) on indoor SLAM and LiDAR sensor optimization for my undergraduate thesis. During Summer '19 and '18, I interned at [Indira Gandhi Centre for Atomic Research](http://www.igcar.gov.in/) working on reinforcement learning and closed-loop control algorithms.
+I am currently a Quantitative Researcher at [JPMorgan Chase & Co.](https://www.jpmorgan.com/solutions/cib/markets/global-equities) working towards market-aware revenue outlier detection. Prior to this, I was fortunate enough to work with [Prof. Ding Zhao](http://www.andrew.cmu.edu/user/dingzhao/) at [Carnegie Mellon University](http://www.andrew.cmu.edu/user/dingzhao/) on indoor SLAM and LiDAR sensor optimization for my undergraduate thesis. During Summer '19 and '18, I interned at [Indira Gandhi Centre for Atomic Research](http://www.igcar.gov.in/) working on reinforcement learning and closed-loop control algorithms.
 
 I like to focus on problems which closely impact our community and my work till now has been focused on understanding the nature of these problems. I am interested in solutions which build on machine learning, statistics, applied probability, optimization, and simulation. 
 
