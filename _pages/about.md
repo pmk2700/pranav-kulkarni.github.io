@@ -33,8 +33,8 @@ In addition to always looking to [learn](https://www.feynmanlectures.caltech.edu
 -----
 
 <div style="width:300px; margin:auto;">
-  <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5t259rss3n1&amp;m=1&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=0&amp;s=300" async="async"></script> -->
-  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5zsnbg81iun&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
+  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5t259rss3n1&amp;m=1&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=0&amp;s=300" async="async"></script>
+  <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5zsnbg81iun&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script> -->
 </div>
 
 
