@@ -308,7 +308,7 @@ ul#navigation li .fa {
 	border-radius: 25px;
 	border: 2px solid var(--tint);
 	padding: 5px 5px 0px 5px;
-	margin: 55px 20px 15px 20px;
+	margin: 2.5% 20px 15px 20px;
 	width: auto;
 	height: auto;  
   }
@@ -316,7 +316,7 @@ ul#navigation li .fa {
   
 #sidebar-footer{
 	position: absolute;
-	bottom: 0;
+	bottom: 0px;
 	left: 0;
 	width: 100%;
 	background: #202020;
@@ -1168,6 +1168,10 @@ ul.grid li {
 	ul.grid li {
 		width: 50%;
 	}
+	#sidebar-footer {
+		bottom: -15px;
+	}
+	
 
 }
 
@@ -1175,7 +1179,9 @@ ul.grid li {
 	ul.grid li {
 		width: 100%;
 	}
-
+	#sidebar-footer {
+		bottom: -15px;
+	}
 }
 
 ul.grid li >div {
