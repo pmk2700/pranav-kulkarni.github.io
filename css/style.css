@@ -196,6 +196,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 	background-image: url("../images/personal/face3.jpeg");
 	width: 125px;
 	margin: 0 auto;
+	margin-bottom: 10px;
 	height: 125px;
 	border-radius: 50%;
 
@@ -211,10 +212,18 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 	margin: 20px 0 10px 0;
 }
 
+
 #profile .title h3 {
-	font-size: 18px;
+	font-size: 22px;
 	font-weight: 300;
-	color: #aaa;
+	color: white;
+	margin: 0px 0 10px 0;
+}
+
+#profile .title h5 {
+	font-size: 16px;
+	font-weight: 300;
+	color: white;
 	margin: 0px 0 10px 0;
 }
 
