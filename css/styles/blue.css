@@ -2,37 +2,37 @@ ul#navigation li.external:hover .fa, ul#navigation li.currentmenu .fa{
 	color: #15a1ff;
 }
 .ul-boxed li {
-	border-left-color:#025cd1;
+	border-left-color:#025cd1ad;
 }
 ul.ul-card li .dy .year {
-	background-color: #025cd1;
+	background-color: #025cd1ad;
 }
 ul.ul-dates div.dates span {
-	background-color: #025cd1;
+	background-color: #025cd1ad;
 }
 ul.timeline li .date {
-	background: #025cd1;
+	background: #025cd1ad;
 }
 ul.timeline li .data {
-	border-left-color: #025cd1;
+	border-left-color: #025cd1ad;
 }
 .ul-withdetails li .imageoverlay {
-	background: #025cd1;
+	background: #025cd1ad;
 }
 .cd-active.cd-dropdown > span {
-	color: #025cd1;
+	color: #025cd1ad;
 }
 .cd-active.cd-dropdown ul li span:hover {
-	background: #025cd1;
+	background: #025cd1ad;
 }
 .pitems .pubmain .pubassets {
-	border-top-color:#025cd1; 
+	border-top-color:#025cd1ad; 
 }
 .pitems .pubmain .pubassets a:hover,.pitems .pubmain .pubassets a:focus,.pitems .pubmain .pubassets a.pubcollapse {
-	background: #025cd1;
+	background: #025cd1ad;
 }
 .contact-office .icon-huge, .contact-lab .icon-huge {
-	color: #025cd1;
+	color: #025cd1ad;
 }
 
 /* secondary color 
