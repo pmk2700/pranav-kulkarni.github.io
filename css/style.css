@@ -29,7 +29,7 @@
 }
 
 body {
-	font-size: 16.25px;
+	font-size: 15.25px;
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
 	background: #4D4D4D;
@@ -214,14 +214,14 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 
 
 #profile .title h3 {
-	font-size: 22px;
+	font-size: 19px;
 	font-weight: 300;
 	color: white;
 	margin: 0px 0 10px 0;
 }
 
 #profile .title h5 {
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 300;
 	color: white;
 	margin: 0px 0 10px 0;
@@ -428,7 +428,7 @@ ul#navigation li .fa {
 
 
 .headercontent .title {
-	font-size: 45px;
+	font-size: 26px;
 	margin-bottom: 25px;
 	border-bottom: 1px solid #ccc;
 	padding: 0 0 20px 0;
@@ -448,7 +448,7 @@ ul#navigation li .fa {
 }
 
 .page .section{
-	padding: 70px 0;
+	padding: 40px 0;
 	position: relative;
 }
 
@@ -482,7 +482,7 @@ ul#navigation li .fa {
 .section .title h3 {
 	padding: 0;
 	margin: 0;
-	font-size: 26px;
+	font-size: 22px;
 }
 
 .thumb {

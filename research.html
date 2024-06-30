@@ -171,10 +171,11 @@
                         <div class="headercontent">
 
                             <div class="section-container">
-                                <h3 class="title" >Research Summary</h3>
+                                <h3 class="title" > Research Summary </h3>
                             
                                 <div class="row" style="margin: 0px 0px 0px 10px;">
                                     <div class="col-md">
+                                    <font size="-0.5">
                                         <p>
                                             I like to focus on problems which closely impact our community and my work till now has been focused on understanding the nature of these problems. 
                                             I am interested in solutions which build on machine learning, statistics, applied probability, optimization, and simulation. 
@@ -188,7 +189,7 @@
                                         <p> 
                                             <strong>Interests</strong>: Optimization, Reinforcement Learning, Machine Learning Theory, and Large Language Models.
                                         </p>
-
+                                    </font>
                                     </div>
                                     <!-- <div class="col-md-4">
                                         <div class="subtitle text-center">
@@ -217,13 +218,97 @@
                                 <div class="row">
 
                                     <!-- Publications -->
-                                    <div class="col-md-10 col-md-offset-1">
+                                    <div class="col-md-10 col-md-offset-1" >
                                         <div class="title text-center">
                                             <h3 style="font-weight: 400;">Publications</h3>
                                         </div>
                                         <ul class="ul-withdetails">
+
+
+                                            <!-- e-COP -->
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-4 col-md-3">
+                                                        <div class="image thumb">
+                                                            <img alt="lidar-optimization" src="images/research/pubs/ecop_teaser.png" class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="fa fa-search"></i>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-8 col-md-9" style="margin-top: -10px; margin-left: -50px;">
+                                                        <div class="meta">
+                                                            <h3 style="margin-top: 33px;">e-COP: Episodic Constrained Optimization of Policies                                                      
+                                                            </h3>
+                                                            <p> <strong style="font-weight: 600;">Akhil Agnihotri</strong>, Rahul Jain, Deepak Ramachandran, Sahil Singla.</p>
+                                                            <p style="font-size:14.5px; margin-top: -5px;" >
+                                                                Submitted NeurIPS 2024 &nbsp;
+                                                                [<a href="https://arxiv.org/abs/2406.09563v1" target="_blank">arxiv</a>]
+                                                                <!-- [<a href="https://github.com/HanjiangHu/Multi-LiDAR-Placement-for-3D-Detection" target="_blank">code</a>] -->
+                                                                [code]
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p>
+                                                        <strong>Abstract</strong>: In this paper, we present the <mark>e-COP</mark> algorithm, the first policy optimization algorithm for constrained 
+                                                        Reinforcement Learning (RL) in episodic (finite horizon) settings. Such formulations are applicable when there are separate sets of 
+                                                        optimization criteria and constraints on a system's behavior. We approach this problem by first establishing a policy difference 
+                                                        lemma for the episodic setting, which provides the theoretical foundation for the algorithm. Then, we propose to combine a set of 
+                                                        established and novel solution ideas to yield the <mark>e-COP</mark> algorithm that is easy to implement and numerically stable, and provide a 
+                                                        theoretical guarantee on optimality under certain scaling assumptions. Through extensive empirical analysis using benchmarks in 
+                                                        the Safety Gym suite, we show that our algorithm has similar or better performance than SoTA (non-episodic) algorithms adapted for 
+                                                        the episodic setting. The scalability of the algorithm opens the door to its application in safety-constrained Reinforcement Learning 
+                                                        from Human Feedback for Large Language or Diffusion Models.
+                                                    </p>
+                                                    
+                                                </div>
+                                            </li>
+
+                                            <!-- Offline Preference Data Bandits NeurIPS 2024 -->
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-4 col-md-3">
+                                                        <div class="image thumb">
+                                                            <img alt="lidar-optimization" src="images/research/pubs/preference_data_bandits_teaser.png" class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="fa fa-search"></i>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-8 col-md-9" style="margin-top: -10px; margin-left: -50px;">
+                                                        <div class="meta">
+                                                            <h3 style="margin-top: 32px;">Online Bandit Learning with Offline Preference Data                                                       
+                                                            </h3>
+                                                            <p> <strong style="font-weight: 600;">Akhil Agnihotri</strong>, Rahul Jain, Deepak Ramachandran, Zheng Wen. </p>
+                                                            <p style="font-size:14.5px; margin-top: -5px;">
+                                                                Submitted NeurIPS 2024 &nbsp;
+                                                                [<a href="https://arxiv.org/abs/2406.09574v1" target="_blank">arxiv</a>]
+                                                                <!-- [<a href="https://github.com/HanjiangHu/Multi-LiDAR-Placement-for-3D-Detection" target="_blank">code</a>] -->
+                                                                [code]
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p>
+                                                        <strong>Abstract</strong>: Reinforcement Learning with Human Feedback (RLHF) is at the core of fine-tuning methods for generative AI models 
+                                                        for language and images. Such feedback is often sought as rank or preference feedback from human raters, as opposed to eliciting scores 
+                                                        since the latter tends to be very noisy. On the other hand, RL theory and algorithms predominantly assume that a reward feedback is available. 
+                                                        In particular, approaches for online learning that can be helpful in adaptive data collection via active learning cannot incorporate 
+                                                        offline preference data. In this paper, we adopt a finite-armed linear bandit model as a prototypical model of online learning. We consider 
+                                                        an offline preference dataset to be available generated by an expert of unknown 'competence'. We propose <em>warmPref-PS</em>, a posterior 
+                                                        sampling algorithm for online learning that can be warm-started with an offline dataset with noisy preference feedback. We show that by 
+                                                        modeling the competence of the expert that generated it, we are able to use such a dataset most effectively. We support our claims with 
+                                                        novel theoretical analysis of its Bayesian regret, as well as extensive empirical evaluation of an approximate algorithm which performs 
+                                                        substantially better (almost 25 to 50% regret reduction in our studies) as compared to baselines.
+                                                    </p>
+                                                    
+                                                </div>
+                                            </li>
                                             
-                                            <!-- ICML 2023 -->
+                                            <!-- ICML 2024 -->
                                             <li>
                                                 <div class="row">
                                                     <div class="col-sm-4 col-md-3">
@@ -239,7 +324,7 @@
                                                             <h3>ACPO: A Policy Optimization Algorithm for Average Constrained MDPs                                                       
                                                             </h3>
                                                             <p> <strong style="font-weight: 600;">Akhil Agnihotri</strong>, Rahul Jain, Haipeng Luo.</p>
-                                                            <p>
+                                                            <p style="font-size:14.5px; margin-top: -5px;">
                                                                 ICML 2024 &nbsp;
                                                                 [<a href="https://arxiv.org/abs/2302.00808" target="_blank">arxiv</a>]
                                                                 <!-- [<a href="https://github.com/HanjiangHu/Multi-LiDAR-Placement-for-3D-Detection" target="_blank">code</a>] -->
@@ -281,7 +366,7 @@
                                                                 Object Detection for Autonomous Driving                                                         
                                                             </h3>
                                                             <p> Hanjiang Hu, Zuxin Liu, Sharad Chitlangia, <strong style="font-weight: 600;">Akhil Agnihotri</strong>, Ding Zhao.</p>
-                                                            <p>
+                                                            <p style="font-size:14.5px; margin-top: -5px;">
                                                                 CVPR 2022 &nbsp;
                                                                 [<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Investigating_the_Impact_of_Multi-LiDAR_Placement_on_Object_Detection_for_CVPR_2022_paper.pdf" 
                                                                 target="_blank">arxiv</a>]
@@ -320,7 +405,8 @@
                                                     <div class="col-sm-8 col-md-9" style="margin-top: -10px; margin-left: -50px;">
                                                         <div class="meta">
                                                             <h3>Improving Perception via Sensor Placement: Designing Multi-LiDAR Systems for Autonomous Vehicles</h3>                                                           </h3>
-                                                            <p>Sharad Chitlangia, <strong style="font-weight: 600;">Akhil Agnihotri</strong>, Zuxin Liu, Ding Zhao.</p><p>
+                                                            <p>Sharad Chitlangia, <strong style="font-weight: 600;">Akhil Agnihotri</strong>, Zuxin Liu, Ding Zhao.</p>
+                                                            <p style="font-size:14.5px; margin-top: -5px;">
                                                                 CVPR 2021, Autonomous Driving: Perception, Prediction and Planning Workshop. &nbsp;
                                                                 [<a href="https://arxiv.org/pdf/2105.00373" target="_blank">arxiv</a>]
                                                                 [<a href="https://www.youtube.com/watch?v=qkwclSkjc6M" target="_blank">talk</a>] 
@@ -361,7 +447,8 @@
                                                     <div class="col-sm-8 col-md-9" style="margin-left: -50px;">
                                                         <div class="meta">
                                                             <h3>Multi-Vehicle Interaction Scenarios Generation & Interpretable Traffic Primitives and Gaussian Process Regression</h3>
-                                                            <p>Wenshuo Wang, Weiyang Zhang, Jiacheng Zhu, <strong style="font-weight: 600;">Akhil Agnihotri</strong>, Ding Zhao.</p><p>
+                                                            <p>Wenshuo Wang, Weiyang Zhang, Jiacheng Zhu, <strong style="font-weight: 600;">Akhil Agnihotri</strong>, Ding Zhao.</p>
+                                                            <p style="font-size:14.5px; margin-top: -5px;">
                                                             IEEE Intelligent Vehicles Symposium 2020. &nbsp;
                                                                 [<a href="https://arxiv.org/pdf/1910.03633.pdf" target="_blank">arxiv</a>] 
                                                                 [<a href="https://github.com/agnihotriakhil/turtlebot3_aruco_control" target="_blank">code</a>]
@@ -404,7 +491,7 @@
                                                         <div class="meta">
                                                             <h3>A Convolutional Neural Network Approach Towards Self-Driving Cars</h3>
                                                             <p><strong style="font-weight: 600;">Akhil Agnihotri</strong>, Prathamesh Saraf, Kriti Bapnad. </p>
-                                                            <p>
+                                                            <p style="font-size:14.5px; margin-top: -5px;">
                                                                 IEEE India Conference 2019. &nbsp;
                                                                 [<a href="https://arxiv.org/ftp/arxiv/papers/1909/1909.03854.pdf" target="_blank">arxiv</a>] 
                                                                 [<a href="https://github.com/agnihotriakhil/CNN-buggy" target="_blank">code</a>]
@@ -441,7 +528,7 @@
                                                         <div class="meta">
                                                             <h3>A Review on Superplastic Forming of Ti-6Al-4V Alloy</h3>
                                                             <p><strong>Akhil Agnihotri</strong>, Akula Pratyush, Amit Kumar Gupta. </p>
-                                                            </p>
+                                                            <p style="font-size:14.5px; margin-top: -5px;">
                                                                 Journal of Alloys and Compounds.  &nbsp;
                                                                 [<a href="https://arxiv.org/ftp/arxiv/papers/1909/1909.05011.pdf" target="_blank">arxiv</a>]
                                                             </p>
